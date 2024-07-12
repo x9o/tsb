@@ -121,3 +121,6 @@ local Combo = function()
     wait(0.2)
     UseSkill("Hunter's Grasp")
 end
+
+
+Combo()
