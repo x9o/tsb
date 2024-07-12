@@ -106,7 +106,7 @@ local Combo = function()
     Downslam()
     wait(0.2)
     UseSkill("Hunter's Grasp")
-    wait(1)
+    wait(1.5)
     Dash("W")
     wait(0.6)
     Uppercut()
@@ -121,6 +121,5 @@ local Combo = function()
     wait(0.2)
     UseSkill("Hunter's Grasp")
 end
-
 
 Combo()
